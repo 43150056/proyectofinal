@@ -261,3 +261,9 @@ footer{
 #asesorias{ 
     margin-top:-550px;
 }
+
+#pagos .titulo{
+    width: 100%;
+    text-align: center;
+    color: #000000;
+}
