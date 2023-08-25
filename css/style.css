@@ -258,12 +258,26 @@ footer{
     color: #000000;
 }
 
-#asesorias{ 
-    margin-top:-550px;
+#accordionExample{ 
+    margin-top:-250px;
+}
+
+#videos{
+    margin-top: -350px;
 }
 
 #pagos .titulo{
     width: 100%;
     text-align: center;
     color: #000000;
+}
+#reparacion .titulo{
+    width: 100%;
+    text-align: center;
+    color: #000000;
+}
+
+.ajuste{
+    width: 300px;
+    height: 550px;
 }
